@@ -6,11 +6,11 @@ The SpellChecker Project is a multi-phase initiative aimed at developing a robus
 
 Table of Contents
 
-Phase 1: Initial Spellcheck with Limited Dictionary
-Phase 2: Suggestion Mechanism
-Phase 3: Expanded Dictionary and Testing
-Phase 4: Sentence-Level Spellcheck
-Testing Strategy
+Phase 1: Initial Spellcheck with Limited Dictionary<br>
+Phase 2: Suggestion Mechanism<br>
+Phase 3: Expanded Dictionary and Testing<br>
+Phase 4: Sentence-Level Spellcheck<br>
+Testing Strategy<br>
 <a name="phase-1"></a>
 
 Phase 1: Initial Spellcheck with Limited Dictionary
